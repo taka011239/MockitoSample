@@ -1,7 +1,6 @@
 package name.tsuchida.takafumi.mockitosample;
 
 import android.test.InstrumentationTestCase;
-import android.app.Instrumentation;
 import static org.mockito.Mockito.*;
 
 public class MyClassATest extends InstrumentationTestCase  {
